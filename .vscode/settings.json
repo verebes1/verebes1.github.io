@@ -1,3 +1,13 @@
 {
-    "editor.wordWrap": "on"
+    "editor.wordWrap": "on",
+    "sqltools.connections": [
+        {
+            "database": "acme",
+            "dialect": "MySQL",
+            "name": "David",
+            "password": "11anesjA",
+            "server": "127.0.0.1",
+            "username": "root"
+        }
+    ]
 }
